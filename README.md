@@ -1,6 +1,7 @@
 ## WELCOME 👋
-Débutant en code, je vous partage mes projets réalisés.
-toto
+<p>Débutant en code, je vous partage mes projets réalisés en HTML/CSS.</p>
+<p>Prochainement en Javascript 😁</p>
+
 <!--
 **Dev-IT-Seb/Dev-IT-Seb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
