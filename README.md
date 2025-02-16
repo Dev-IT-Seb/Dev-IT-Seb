@@ -1,12 +1,11 @@
+<!-- Description-->
 ## WELCOME 👋
-<p>Débutant en code, je vous partage mes projets réalisés en HTML/CSS.</p>
+<p>Débutant en code HTML, CSS et prochainement en Javascript, je vous partage mes créations.</p>
+<p>Vous visualiserez mon évolution dans ce domaine.</p>
 <p>Prochainement en Javascript 😁</p>
-
 <!--
-**Dev-IT-Seb/Dev-IT-Seb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
