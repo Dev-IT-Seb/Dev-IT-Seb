@@ -1,5 +1,5 @@
 <!-- Description-->
-## WELCOME 👋
+## WELCOME BIENVENUE 👋
 <p>Je code actuellement en HTML/CSS et Powershell.</p>
 <p>Je vous présente mes différents projets que j'ai pu coder.</p>
 <p>Je code actuellement sur 2 projets actuellement que vous visualiserez prochainement😁</p>
