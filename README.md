@@ -1,8 +1,8 @@
 <!-- Description-->
 ## WELCOME 👋
-<p>Débutant en code HTML, CSS et prochainement en Javascript, je vous partage mes créations.</p>
-<p>Vous visualiserez mon évolution dans ce domaine.</p>
-<p>Prochainement en Javascript 😁</p>
+<p>Je code actuellement en HTML/CSS et Powershell.</p>
+<p>Je vous présente mes différents projets que j'ai pu coder.</p>
+<p>Je code actuellement sur 2 projets actuellement que vous visualiserez prochainement😁</p>
 <!--
 
 Here are some ideas to get you started:
