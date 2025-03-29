@@ -1,7 +1,7 @@
 <!-- Description-->
 <h1 align="center">Welcome -Bienvenue 👋</h1>  
 
-<p>Ci-dessous les différents langages que j'utilise:</p>  
+<p>Ci-dessous les différents langages que j'utilise :</p>  
 <ul>
     <li>HTML</li>
     <li>CSS</li>
