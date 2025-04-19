@@ -2,11 +2,13 @@
 <h1 align="center">Welcome -Bienvenue 👋</h1>  
 
 <p>Ci-dessous les différents langages que j'utilise :</p>  
+<p>(Below are the different languages ​​I use)</p>  
 <ul>
     <li>HTML</li>
     <li>CSS</li>
     <li>SCSS</li>
     <li>Javascript</li>
+    <li>PHP</li>
     <li>Powershell</li>
 </ul>
 
