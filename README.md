@@ -1,29 +1,67 @@
-<!-- Description-->
-<h1 align="center">Welcome -Bienvenue 👋</h1>  
+<h1 align="center">👋 Welcome - Bienvenue sur mon profil GitHub</h1>
 
-<p>Ci-dessous les différents langages que j'utilise :</p>  
-<p>(Below are the different languages ​​I use)</p>  
-<ul>
-    <li>HTML</li>
-    <li>CSS</li>
-    <li>SCSS</li>
-    <li>Javascript</li>
-    <li>PHP</li>
-    <li>Powershell</li>
-</ul>
+<p align="center">
+  <img alt="Version" src="https://img.shields.io/badge/status-active-brightgreen.svg" />
+</p>
 
 <p align="center">
     <img width="50%" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Fqa3pkZjVsZm9ycGN6d3hvYXVzMWhzcDNqMnhxOW9vb2JpdmNyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FcqKy4Kj7XOK0hCW4g/giphy.gif" />
 </p>
-<!--
 
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 À propos de moi / About Me
+
+🇫🇷 Développeur web passionné, j’aime concevoir des interfaces claires, modernes et performantes. Je travaille sur des projets Front-End et Back-End avec un intérêt particulier pour les architectures MVC, la programmation orientée objet et les outils de développement professionnels.
+
+🇬🇧 I’m a passionate web developer who loves building clean, modern, and high-performing interfaces. I work on both Front-End and Back-End projects, with a focus on MVC architecture, OOP principles, and professional development tools.
+
+---
+
+## 🚀 Compétences / Skills
+
+- 🧱 **HTML / CSS / SCSS**
+- ⚙️ **JavaScript / PHP / PowerShell**
+- 🗄️ **MySQL / JSON / LocalStorage**
+- 🧰 **Git / GitHub / VSCode**
+- 📐 **Responsive design / Integration from Figma**
+
+---
+
+## 📌 Projets récents / Featured Projects
+
+- 🔧 [Structure-VSCode-SASS](https://github.com/Dev-IT-Seb/Structure-VSCode-SASS) — Générateur automatique de structure SASS pour projets web
+- 📦 [Backoffice](https://github.com/Dev-IT-Seb/Backoffice) — Gestion de données avec JSON + LocalStorage
+- 🎨 [Les 4 éléments](https://github.com/Dev-IT-Seb/Les-4-elements) — Site vitrine d'hôtels avec intégration complète HTML/SCSS
+
+---
+
+## 📊 Statistiques GitHub / GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dev-IT-Seb&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-IT-Seb&theme=github_dark" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-IT-Seb&layout=compact&langs_count=6&hide=ts,scss" alt="Top Languages" />
+</p>
+
+---
+
+## 🌍 Contact
+
+- 🔗 Portfolio GitHub Pages : bientôt disponible  
+- 💬 Langues : Français (natif), Anglais (professionnel)
+
+---
+
+## 🌟 Support
+
+🇫🇷 Si mes projets vous intéressent ou vous ont été utiles, pensez à laisser une **étoile ⭐** !  
+🇬🇧 If you like or found my projects useful, feel free to give a **⭐**!
+
+---
