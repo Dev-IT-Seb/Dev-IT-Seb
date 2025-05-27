@@ -46,10 +46,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-IT-Seb&theme=github_dark" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-IT-Seb&layout=compact&langs_count=6&hide=ts,scss" alt="Top Languages" />
-</p>
-
 ---
 
 ## 🌍 Contact
