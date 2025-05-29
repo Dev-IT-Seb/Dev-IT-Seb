@@ -18,13 +18,39 @@
 
 ---
 
-## 🚀 Compétences / Skills
+## 🚀 Technologies I Use / Technologies que j’utilise
 
-- 🧱 **HTML / CSS / SCSS**
-- ⚙️ **JavaScript / PHP / PowerShell**
-- 🗄️ **MySQL / JSON / LocalStorage**
-- 🧰 **Git / GitHub / VSCode**
-- 📐 **Responsive design / Integration from Figma**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="24"/> **HTML**  
+  🇬🇧 Basic structure of web pages  
+  🇫🇷 Structure de base des pages web  
+
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="24"/> **CSS**  
+  🇬🇧 Styling and layout  
+  🇫🇷 Design et mise en forme  
+
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="SCSS" width="24"/> **SCSS**  
+  🇬🇧 CSS preprocessor for cleaner, maintainable code  
+  🇫🇷 Préprocesseur CSS pour un code plus propre et maintenable  
+
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="24"/> **PHP**  
+  🇬🇧 Server-side development with OOP/PDO and database management  
+  🇫🇷 Développement côté serveur, POO/PDO et gestion de base de données  
+
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="24"/> **JavaScript**  
+  🇬🇧 Interactivity and client-side functionalities  
+  🇫🇷 Création d’interactivité et de fonctionnalités côté client  
+
+- <img src="https://img.icons8.com/color/48/000000/powershell.png" alt="PowerShell" width="24"/> **PowerShell**  
+  🇬🇧 Automation and system management (mostly on Windows)  
+  🇫🇷 Automatisation et gestion de systèmes (principalement sur Windows)  
+
+- <img src="https://img.icons8.com/fluency/48/windows-10.png" alt="Windows Forms" width="24"/> **Windows Forms**  
+  🇬🇧 Rapid GUI development for tools using .NET Forms  
+  🇫🇷 Développement rapide d’interfaces graphiques avec Windows Forms  
+
+- <img src="https://img.icons8.com/color/48/windows-client.png" alt="WPF" width="24"/> **WPF (Windows Presentation Foundation)**  
+  🇬🇧 Modern GUI with XAML support for richer interfaces  
+  🇫🇷 Interfaces modernes avec support de XAML pour une UX enrichie  
 
 ---
 
